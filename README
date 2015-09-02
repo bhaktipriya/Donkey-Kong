@@ -1,0 +1,16 @@
+Here are the instructions:
+RUN:python main.py
+It will begin the game
+
+
+Playing instructions:
+
+Right:Right arrow,d
+Left:Left arrow,a
+Down:Down arrow,s
+Up:Up arrow,w
+Jump:Space bar
+
+Use Escape to exit at all times
+
+
