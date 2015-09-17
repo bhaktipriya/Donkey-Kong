@@ -1,0 +1,10 @@
+MANIFEST.in
+README
+setup.py
+tox.ini
+sample.egg-info/PKG-INFO
+sample.egg-info/SOURCES.txt
+sample.egg-info/dependency_links.txt
+sample.egg-info/requires.txt
+sample.egg-info/top_level.txt
+tests/test_init.py

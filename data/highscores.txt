@@ -1,0 +1,5 @@
+Bhakti:4100
+Priya:4100
+Shridhar:4000
+Shruti:3000
+Manasa:3000
